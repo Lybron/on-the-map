@@ -1,0 +1,15 @@
+PODS:
+  - LTMorphingLabel (0.4.0)
+  - ReachabilitySwift (3)
+
+DEPENDENCIES:
+  - LTMorphingLabel
+  - ReachabilitySwift (~> 3)
+
+SPEC CHECKSUMS:
+  LTMorphingLabel: d9a85f16ac306f0e07321d6819964deb2dc69638
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+
+PODFILE CHECKSUM: f53f1f1eab21042c4d4c3a3101b10088181157cb
+
+COCOAPODS: 1.2.0
